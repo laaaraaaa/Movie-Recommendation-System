@@ -76,7 +76,7 @@ The frontend will be available at `http://localhost:5173`
 
 ### Authentication
 - `POST /register` - User registration
-- `POST /login` - User login
+- `POST /token` - User login
 
 ### Movies
 - `GET /movies` - List all movies
